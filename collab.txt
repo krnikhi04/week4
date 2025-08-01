@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Line from your machine
 another local line
+=======
+Line from peer on Github editor
+>>>>>>> 7befdf892c94afcaa2410ac1f88abbf881b729bd
