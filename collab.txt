@@ -1,1 +1,2 @@
-Line from peer on Github editor
+Line from your machine
+Line from peer or GitHub
